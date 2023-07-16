@@ -2,6 +2,6 @@
 
 # 👋 Hi there, I'm Yazhmog (or YazZHh)
 
-- I'm a High School student at La Réunion
+- I'm a Student at Polytech Grenoble
 - I enjoy coding random little scripts in python
 - I like watching animes
